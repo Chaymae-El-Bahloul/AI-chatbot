@@ -1,0 +1,11 @@
+.env
+.streamlit/secrets.toml
+chatbot.db
+*.db
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+.idea/
+Thumbs.db
